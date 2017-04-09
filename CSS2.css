@@ -1,0 +1,154 @@
+body{
+	font-family:arial,sans-serif;
+	background-image:url(http://www.juet.ac.in/TechnicalSocieties/CSI/images/slider/1.jpg)}
+*{
+	padding:0px;
+	margin:0px;
+	}
+#maindiv{
+	width:100%;
+	height:666px;;
+	background-size:cover;	
+}
+#navdiv ul{
+    width:100%;
+    height:80px;
+       background-color:#185B7C;
+	line-height:60px;
+	color:white;
+float:right;
+
+}
+#navdiv ul a {
+	color:white;
+	float:right;
+	padding:10px;
+	text-decoration:none;
+
+}
+#navdiv ul li
+	{
+	list-style-type:none;
+	display:inline-block;
+	float:right;
+	}
+#navdiv ul li:hover{
+	background:#114A67;	
+	transition:all 0.40s;
+	}
+#navdiv h1, img{	
+	float:left;
+cursor:pointer;
+margin-left:10px;
+padding:10px;	
+}
+#navdiv{
+opacity:0.7;
+filter:(opacity=70);
+}
+
+#logo {
+width:20px;height:10px;float:left;
+
+}
+
+.active{
+	background-color:#082649;
+	}
+
+
+
+
+
+div[class^='fancy_button'], div[class*='fancy_button']{
+
+background-size: cover;
+ display: block;
+ width: 200px;
+ height:200px;
+ text-align: center;
+ font: 1.2em/12px Verdana, Arial, Helvetica, sans-serif;
+ color: #fff;
+ text-decoration: none;
+ -webkit-border-radius: 15px;
+ -khtml-border-radius: 15px;
+ -moz-border-radius: 15px;
+ border-radius: 15px;
+position: absolute;
+    -webkit-transition-duration: 700ms;
+    -moz-transition-duration: 700ms;
+    -o-transition-duration: 700ms;
+    transition-duration: 700ms;
+}
+
+
+.fancy_button {
+background-image: url(http://brandongaille.com/wp-content/uploads/2013/07/Dell-Company-Logo.jpg);
+ background-position: right top;  
+     top:150px;
+    left:250px;
+}
+.fancy_button1{
+background-image: url("http://3.bp.blogspot.com/-wWmc-8wrKiA/T0zNvMZ6LcI/AAAAAAAAHto/giMKWiB0m1U/s1600/intel%252Blogo_company_logo_pictures_with_name_business_brand_marketing_.jpg" );
+   background-position: center;
+   top: 150px;
+    left:500px;
+}
+.fancy_button2{
+background-image: url("http://www.logodesignlove.com/images/wordmarks/avon-logo.jpg" );
+   background-position: center; 
+    top: 150px;
+    left:750px;
+}
+.fancy_button3{
+background-image: url("https://assets.smartbygep.com/sites/default/files/top-banner/events.jpg" );
+    top: 400px;
+    left:250px;
+}
+.fancy_button4{
+background-image: url("https://assets.smartbygep.com/sites/default/files/top-banner/events.jpg" );
+    top: 400px;
+    left:500px;
+}
+.fancy_button5{
+background-image: url("https://i0.wp.com/technofizi.net/wp-content/uploads/2016/02/LG-logos.jpg?resize=479%2C336" );
+    
+top: 400px;
+    left:750px;
+}
+.fancy_button:hover {
+ width: 250px;
+ height:250px;
+    top: 125px;
+    left:225px;
+ }
+.fancy_button1:hover{
+ width: 250px;
+ height:250px;
+    top: 125px;
+    left:475px;
+ }
+.fancy_button2:hover{
+ width: 250px;
+ height:250px;
+    top: 125px;
+    left:725px;
+ }
+.fancy_button3:hover{
+ width: 250px;
+ height:250px;
+    top: 375px;
+    left:225px;
+ }
+.fancy_button4:hover{
+ width: 250px;
+ height:250px;
+    top: 375px;
+    left:475px;
+ }
+.fancy_button5:hover{
+ width: 250px;
+ height:250px;
+    top: 375px;
+    left:725px;
+ }
